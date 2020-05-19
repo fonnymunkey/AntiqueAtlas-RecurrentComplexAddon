@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aarcaddon",
+  "name": "AARCAddon",
+  "description": "Addon for Antique Atlas to work with RecurrentComplex structures.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fonnymunkey"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
